@@ -1,0 +1,16 @@
+body {
+    background-color: #1d0040;
+    color: #ffffff;
+    font-family: Consolas;
+    margin: 0px;
+    padding: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+canvas {
+    padding: 0%;
+}
